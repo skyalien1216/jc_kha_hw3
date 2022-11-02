@@ -1,2 +1,3 @@
 rootProject.name = 'jc_kha_hw3'
+include 'models'
 
